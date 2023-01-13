@@ -1,0 +1,12 @@
+1) develop a java program to strore integer objects as 
+   the key which indicates the students id and student 
+   object as the value where in evrey student will have 
+   id  and name and marks inside link hash map
+
+--> from the map get only the values(student objects) and store it inside Arraylist
+--> base on the input or choice from the user sort based on id or name or marks
+
+     hint : 1) upcasting 
+            2)List use add() & map use put()
+            3) comparater using (custom sirting)
+            4) use collections.sort()
